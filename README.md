@@ -51,5 +51,5 @@ This is a real-time chat application built using **Python, Django, Django Channe
 ### Installation Steps
 #### 1. Clone the Repository
 ```bash
-git clone <your-github-repo-url>
+git clone <https://github.com/Narendran-root/north90chat.git>
 cd <project-folder>
